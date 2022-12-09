@@ -1,3 +1,3 @@
 # openAI-Image-generator
 
-A app that generates image on tha discription in natural language
+A app that generates image on the discription in natural language
